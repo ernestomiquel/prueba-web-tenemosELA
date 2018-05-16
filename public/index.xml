@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universal</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 May 2018 18:45:06 -0300</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unnuevopost</title>
+      <link>https://example.org/blog/2018/05/16/unnuevopost/</link>
+      <pubDate>Wed, 16 May 2018 18:45:06 -0300</pubDate>
+      
+      <guid>https://example.org/blog/2018/05/16/unnuevopost/</guid>
+      <description>#Hola gente!!
+Estoy haciendo un nuevo post!!!</description>
+    </item>
+    
+    <item>
+      <title>Unnuevopost</title>
+      <link>https://example.org/post/unnuevopost/</link>
+      <pubDate>Wed, 16 May 2018 18:45:06 -0300</pubDate>
+      
+      <guid>https://example.org/post/unnuevopost/</guid>
+      <description>#Hola gente!!
+Estoy haciendo un nuevo post!!!</description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://example.org/blog/2018/05/14/mi-primer-post/</link>
+      <pubDate>Mon, 14 May 2018 21:48:38 -0300</pubDate>
+      
+      <guid>https://example.org/blog/2018/05/14/mi-primer-post/</guid>
+      <description>#Este es el título de mi primer post
+Y acá está el contenido!!! 😀</description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>https://example.org/post/mi-primer-post/</link>
+      <pubDate>Mon, 14 May 2018 21:48:38 -0300</pubDate>
+      
+      <guid>https://example.org/post/mi-primer-post/</guid>
+      <description>#Este es el título de mi primer post
+Y acá está el contenido!!! 😀</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://example.org/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+  </channel>
+</rss>
