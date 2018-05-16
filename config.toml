@@ -1,5 +1,5 @@
 baseurl = "https://pruebaela.netlify.com/"
-title = "Universal"
+title = "Tenemos ELA"
 theme = "hugo-universal-theme"
 themesDir = "themes"
 languageCode = "es-UY"
