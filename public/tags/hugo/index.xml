@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Universal</title>
-    <link>https://example.org/tags/hugo/</link>
-    <description>Recent content in Hugo on Universal</description>
+    <title>Hugo on Tenemos ELA</title>
+    <link>https://pruebaela.netlify.com/tags/hugo/</link>
+    <description>Recent content in Hugo on Tenemos ELA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-UY</language>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pruebaela.netlify.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>https://pruebaela.netlify.com/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://example.org/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>https://pruebaela.netlify.com/blog/2015/08/03/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

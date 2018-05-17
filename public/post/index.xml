@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Universal</title>
-    <link>https://example.org/post/</link>
-    <description>Recent content in Posts on Universal</description>
+    <title>Posts on Tenemos ELA</title>
+    <link>https://pruebaela.netlify.com/post/</link>
+    <description>Recent content in Posts on Tenemos ELA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-UY</language>
     <lastBuildDate>Wed, 16 May 2018 18:45:06 -0300</lastBuildDate>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pruebaela.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unnuevopost</title>
-      <link>https://example.org/post/unnuevopost/</link>
+      <link>https://pruebaela.netlify.com/post/unnuevopost/</link>
       <pubDate>Wed, 16 May 2018 18:45:06 -0300</pubDate>
       
-      <guid>https://example.org/post/unnuevopost/</guid>
+      <guid>https://pruebaela.netlify.com/post/unnuevopost/</guid>
       <description>#Hola gente!!
 Estoy haciendo un nuevo post!!!</description>
     </item>
     
     <item>
       <title>Mi Primer Post</title>
-      <link>https://example.org/post/mi-primer-post/</link>
+      <link>https://pruebaela.netlify.com/post/mi-primer-post/</link>
       <pubDate>Mon, 14 May 2018 21:48:38 -0300</pubDate>
       
-      <guid>https://example.org/post/mi-primer-post/</guid>
+      <guid>https://pruebaela.netlify.com/post/mi-primer-post/</guid>
       <description>#Este es el título de mi primer post
 Y acá está el contenido!!! 😀</description>
     </item>

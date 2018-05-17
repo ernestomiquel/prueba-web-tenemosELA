@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Universal</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on Universal</description>
+    <title>Tags on Tenemos ELA</title>
+    <link>https://pruebaela.netlify.com/tags/</link>
+    <description>Recent content in Tags on Tenemos ELA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-UY</language>
     <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pruebaela.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://example.org/tags/hugo/</link>
+      <link>https://pruebaela.netlify.com/tags/hugo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://example.org/tags/hugo/</guid>
+      <guid>https://pruebaela.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
